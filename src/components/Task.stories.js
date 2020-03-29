@@ -10,9 +10,9 @@ export default {
     decorators: [withKnobs],
     parameters: {
         assets: [
-          'path/to/your/asset.png',
-          'path/to/another/asset.png',
-          'path/to/yet/another/asset.png',
+        //   'path/to/your/asset.png',
+        //   'path/to/another/asset.png',
+        //   'path/to/yet/another/asset.png',
         ],
     },
     excludeStories: /.*Data$/,
